@@ -1,0 +1,4 @@
+[submodule "Packages/AsyncImageLibrary"]
+    path = Packages/AsyncImageLibrary
+    url = https://github.com/SrejonKhan/AsyncImageLibrary.git
+    branch = develop

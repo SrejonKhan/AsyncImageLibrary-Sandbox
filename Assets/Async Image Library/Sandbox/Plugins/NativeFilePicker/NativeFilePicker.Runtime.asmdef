@@ -1,0 +1,16 @@
+{
+    "name": "NativeFilePicker.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f580279d9854f6243aaa00ca526b31b2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
